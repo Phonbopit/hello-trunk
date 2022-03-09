@@ -1,0 +1,22 @@
+$primary-color: #3343df;
+$secondary-color: #dd34f3;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 720px;
+  margin: 0 auto;
+  margin-top: 4em;
+}
+
+h1 {
+  font-size: 2rem;
+  color: $primary-color;
+}
+
+p {
+  color: $secondary-color;
+}
